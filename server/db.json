@@ -1,0 +1,268 @@
+{
+  "users": [
+    {
+      "id": "user-1780735068694-598",
+      "name": "Mohan Chandu1234",
+      "email": "mohanchandhmc@gmail.com",
+      "password": "Mohan@1234"
+    }
+  ],
+  "profiles": {
+    "user-1780728243234-694": {
+      "name": "Applicant",
+      "email": "mohanchandhmc@gmail.com",
+      "phone": "+91 9121790691",
+      "linkedin": "www.linkedin.com/in/mohan-chandu-97149327",
+      "portfolio": "https://github.com/MOHANCHANDU-MC",
+      "skills": [
+        "JavaScript",
+        "Python",
+        "Java",
+        "HTML",
+        "Html5",
+        "CSS",
+        "AI",
+        "Git",
+        "GitHub"
+      ],
+      "summary": "Qualified professional with skills in JavaScript, Python, Java, HTML.",
+      "experience": [
+        {
+          "role": "Software Developer",
+          "company": "Previous Company",
+          "duration": "2 Years",
+          "description": "Worked on building robust applications, writing clean code, and fixing bugs."
+        }
+      ]
+    },
+    "user-1780735068694-598": {
+      "name": "Mohan Chandu1234",
+      "email": "mohanchandhmc@gmail.com",
+      "phone": "+91 9121790691",
+      "linkedin": "www.linkedin.com/in/mohan-chandu-97149327",
+      "portfolio": "https://github.com/MOHANCHANDU-MC",
+      "summary": "Qualified professional with skills in JavaScript, Python, Java, HTML.",
+      "skills": [
+        "JavaScript",
+        "Python",
+        "Java",
+        "HTML",
+        "Html5",
+        "CSS",
+        "AI",
+        "Git",
+        "GitHub"
+      ],
+      "experience": [
+        {
+          "role": "Software Developer",
+          "company": "Previous Company",
+          "duration": "2 Years",
+          "description": "Worked on building robust applications, writing clean code, and fixing bugs."
+        }
+      ]
+    }
+  },
+  "applications": {
+    "user-1780728243234-694": [
+      {
+        "jobId": "job-8",
+        "title": "Lead Software Architect",
+        "company": "Google",
+        "appliedAt": "2026-06-06T07:04:12.963Z",
+        "status": "Applied",
+        "source": "Company Careers"
+      },
+      {
+        "jobId": "job-15",
+        "title": "Senior Full Stack Engineer",
+        "company": "Slack",
+        "appliedAt": "2026-06-06T07:29:23.023Z",
+        "status": "Applied",
+        "source": "Company Careers"
+      },
+      {
+        "jobId": "job-9",
+        "title": "Node.js Developer",
+        "company": "Razorpay",
+        "appliedAt": "2026-06-06T07:32:07.654Z",
+        "status": "Applied",
+        "source": "Naukri"
+      },
+      {
+        "jobId": "job-13",
+        "title": "Staff Frontend Engineer",
+        "company": "Uber",
+        "appliedAt": "2026-06-06T07:39:15.071Z",
+        "status": "Applied",
+        "source": "LinkedIn"
+      },
+      {
+        "jobId": "job-14",
+        "title": "React Native Mobile Developer",
+        "company": "Zomato",
+        "appliedAt": "2026-06-06T07:42:36.536Z",
+        "status": "Applied",
+        "source": "Naukri"
+      },
+      {
+        "jobId": "job-3",
+        "title": "Full Stack JavaScript Engineer",
+        "company": "Atlassian",
+        "appliedAt": "2026-06-06T07:48:41.623Z",
+        "status": "Applied",
+        "source": "Naukri"
+      },
+      {
+        "jobId": "job-6",
+        "title": "Staff Frontend Engineer",
+        "company": "Airbnb",
+        "appliedAt": "2026-06-06T08:12:53.120Z",
+        "status": "Applied",
+        "source": "Wellfound"
+      }
+    ],
+    "user-1780735068694-598": [
+      {
+        "jobId": "job-1",
+        "title": "Frontend React Developer",
+        "company": "Stripe",
+        "appliedAt": "2026-06-06T08:38:11.446Z",
+        "status": "Applied",
+        "source": "LinkedIn Jobs"
+      },
+      {
+        "jobId": "job-4",
+        "title": "Frontend Web Developer Intern",
+        "company": "Swiggy",
+        "appliedAt": "2026-06-06T08:38:17.067Z",
+        "status": "Applied",
+        "source": "Internshala"
+      },
+      {
+        "jobId": "job-25",
+        "title": "UI Specialist & Designer",
+        "company": "Capgemini",
+        "appliedAt": "2026-06-06T08:38:17.088Z",
+        "status": "Applied",
+        "source": "Capgemini Careers"
+      }
+    ]
+  },
+  "mailbox": {
+    "user-1780728243234-694": [
+      {
+        "id": "email-1780733573121",
+        "from": "AI AutoApply <notifications@aiautoapply.com>",
+        "to": "mohanchandhmc@gmail.com",
+        "subject": "✉️ Thank you for applying: Staff Frontend Engineer at Airbnb",
+        "receivedAt": "2026-06-06T08:12:53.121Z",
+        "body": "Hi Applicant,\n\nThank you for applying for the position of Staff Frontend Engineer at Airbnb.\n\nThis confirms that your job application has been successfully submitted via the AI AutoApply portal. We have parsed your resume and structured profile details and successfully transmitted them to the candidate portal for Airbnb.\n\nApplication Details:\n- Applicant: Applicant\n- Job Title: Staff Frontend Engineer\n- Company: Airbnb\n- Channel: Wellfound\n- Timestamp: 6/6/2026, 1:42:53 PM\n\nWe will notify you here as the hiring team processes your candidacy.\n\nBest regards,\nAI AutoApply Team",
+        "jobTitle": "Staff Frontend Engineer",
+        "company": "Airbnb",
+        "status": "confirmed"
+      },
+      {
+        "id": "email-1780732121625",
+        "from": "AI AutoApply <notifications@aiautoapply.com>",
+        "to": "mohanchandhmc@gmail.com",
+        "subject": "✉️ Thank you for applying: Full Stack JavaScript Engineer at Atlassian",
+        "receivedAt": "2026-06-06T07:48:41.625Z",
+        "body": "Hi Applicant,\n\nThank you for applying for the position of Full Stack JavaScript Engineer at Atlassian.\n\nThis confirms that your job application has been successfully submitted via the AI AutoApply portal. We have parsed your resume and structured profile details and successfully transmitted them to the candidate portal for Atlassian.\n\nApplication Details:\n- Applicant: Applicant\n- Job Title: Full Stack JavaScript Engineer\n- Company: Atlassian\n- Channel: Naukri\n- Timestamp: 6/6/2026, 1:18:41 PM\n\nWe will notify you here as the hiring team processes your candidacy.\n\nBest regards,\nAI AutoApply Team",
+        "jobTitle": "Full Stack JavaScript Engineer",
+        "company": "Atlassian",
+        "status": "confirmed"
+      },
+      {
+        "id": "email-1780731756538",
+        "from": "AI AutoApply <notifications@aiautoapply.com>",
+        "to": "mohanchandhmc@gmail.com",
+        "subject": "✉️ Thank you for applying: React Native Mobile Developer at Zomato",
+        "receivedAt": "2026-06-06T07:42:36.538Z",
+        "body": "Hi Applicant,\n\nThank you for applying for the position of React Native Mobile Developer at Zomato.\n\nThis confirms that your job application has been successfully submitted via the AI AutoApply portal. We have parsed your resume and structured profile details and successfully transmitted them to the candidate portal for Zomato.\n\nApplication Details:\n- Applicant: Applicant\n- Job Title: React Native Mobile Developer\n- Company: Zomato\n- Channel: Naukri\n- Timestamp: 6/6/2026, 1:12:36 PM\n\nWe will notify you here as the hiring team processes your candidacy.\n\nBest regards,\nAI AutoApply Team",
+        "jobTitle": "React Native Mobile Developer",
+        "company": "Zomato",
+        "status": "confirmed"
+      },
+      {
+        "id": "email-1780731555075",
+        "from": "AI AutoApply <notifications@aiautoapply.com>",
+        "to": "mohanchandhmc@gmail.com",
+        "subject": "✉️ Thank you for applying: Staff Frontend Engineer at Uber",
+        "receivedAt": "2026-06-06T07:39:15.076Z",
+        "body": "Hi Applicant,\n\nThank you for applying for the position of Staff Frontend Engineer at Uber.\n\nThis confirms that your job application has been successfully submitted via the AI AutoApply portal. We have parsed your resume and structured profile details and successfully transmitted them to the candidate portal for Uber.\n\nApplication Details:\n- Applicant: Applicant\n- Job Title: Staff Frontend Engineer\n- Company: Uber\n- Channel: LinkedIn\n- Timestamp: 6/6/2026, 1:09:15 PM\n\nWe will notify you here as the hiring team processes your candidacy.\n\nBest regards,\nAI AutoApply Team",
+        "jobTitle": "Staff Frontend Engineer",
+        "company": "Uber",
+        "status": "confirmed"
+      },
+      {
+        "id": "email-1780731127657",
+        "from": "AI AutoApply <notifications@aiautoapply.com>",
+        "to": "mohanchandhmc@gmail.com",
+        "subject": "✉️ Thank you for applying: Node.js Developer at Razorpay",
+        "receivedAt": "2026-06-06T07:32:07.657Z",
+        "body": "Hi Applicant,\n\nThank you for applying for the position of Node.js Developer at Razorpay.\n\nThis confirms that your job application has been successfully submitted via the AI AutoApply portal. We have parsed your resume and structured profile details and successfully transmitted them to the candidate portal for Razorpay.\n\nApplication Details:\n- Applicant: Applicant\n- Job Title: Node.js Developer\n- Company: Razorpay\n- Channel: Naukri\n- Timestamp: 6/6/2026, 1:02:07 PM\n\nWe will notify you here as the hiring team processes your candidacy.\n\nBest regards,\nAI AutoApply Team",
+        "jobTitle": "Node.js Developer",
+        "company": "Razorpay",
+        "status": "confirmed"
+      },
+      {
+        "id": "email-1780730963026",
+        "from": "AI AutoApply <notifications@aiautoapply.com>",
+        "to": "mohanchandhmc@gmail.com",
+        "subject": "✉️ Thank you for applying: Senior Full Stack Engineer at Slack",
+        "receivedAt": "2026-06-06T07:29:23.026Z",
+        "body": "Hi Applicant,\n\nThank you for applying for the position of Senior Full Stack Engineer at Slack.\n\nThis confirms that your job application has been successfully submitted via the AI AutoApply portal. We have parsed your resume and structured profile details and successfully transmitted them to the candidate portal for Slack.\n\nApplication Details:\n- Applicant: Applicant\n- Job Title: Senior Full Stack Engineer\n- Company: Slack\n- Channel: Company Careers\n- Timestamp: 6/6/2026, 12:59:23 PM\n\nWe will notify you here as the hiring team processes your candidacy.\n\nBest regards,\nAI AutoApply Team",
+        "jobTitle": "Senior Full Stack Engineer",
+        "company": "Slack",
+        "status": "confirmed"
+      },
+      {
+        "id": "email-1780729453029",
+        "from": "AI AutoApply <notifications@aiautoapply.com>",
+        "to": "mohanchandhmc@gmail.com",
+        "subject": "✉️ Thank you for applying: Lead Software Architect at Google",
+        "receivedAt": "2026-06-06T07:04:13.029Z",
+        "body": "Hi Applicant,\n\nThank you for applying for the position of Lead Software Architect at Google.\n\nThis confirms that your job application has been successfully submitted via the AI AutoApply portal. We have parsed your resume and structured profile details and successfully transmitted them to the candidate portal for Google.\n\nApplication Details:\n- Applicant: Applicant\n- Job Title: Lead Software Architect\n- Company: Google\n- Channel: Company Careers\n- Timestamp: 6/6/2026, 12:34:13 PM\n\nWe will notify you here as the hiring team processes your candidacy.\n\nBest regards,\nAI AutoApply Team",
+        "jobTitle": "Lead Software Architect",
+        "company": "Google",
+        "status": "confirmed"
+      }
+    ],
+    "user-1780735068694-598": [
+      {
+        "id": "email-1780735097089",
+        "from": "AI AutoApply <notifications@aiautoapply.com>",
+        "to": "mohanchandhmc@gmail.com",
+        "subject": "✉️ Thank you for applying: UI Specialist & Designer at Capgemini",
+        "receivedAt": "2026-06-06T08:38:17.089Z",
+        "body": "Hi Mohan Chandu1234,\n\nThank you for applying for the position of UI Specialist & Designer at Capgemini.\n\nThis confirms that your job application has been successfully submitted via the AI AutoApply portal. We have parsed your resume and structured profile details and successfully transmitted them to the candidate portal for Capgemini.\n\nApplication Details:\n- Applicant: Mohan Chandu1234\n- Job Title: UI Specialist & Designer\n- Company: Capgemini\n- Channel: Capgemini Careers\n- Timestamp: 6/6/2026, 2:08:17 PM\n\nWe will notify you here as the hiring team processes your candidacy.\n\nBest regards,\nAI AutoApply Team",
+        "jobTitle": "UI Specialist & Designer",
+        "company": "Capgemini",
+        "status": "confirmed"
+      },
+      {
+        "id": "email-1780735097071",
+        "from": "AI AutoApply <notifications@aiautoapply.com>",
+        "to": "mohanchandhmc@gmail.com",
+        "subject": "✉️ Thank you for applying: Frontend Web Developer Intern at Swiggy",
+        "receivedAt": "2026-06-06T08:38:17.071Z",
+        "body": "Hi Mohan Chandu1234,\n\nThank you for applying for the position of Frontend Web Developer Intern at Swiggy.\n\nThis confirms that your job application has been successfully submitted via the AI AutoApply portal. We have parsed your resume and structured profile details and successfully transmitted them to the candidate portal for Swiggy.\n\nApplication Details:\n- Applicant: Mohan Chandu1234\n- Job Title: Frontend Web Developer Intern\n- Company: Swiggy\n- Channel: Internshala\n- Timestamp: 6/6/2026, 2:08:17 PM\n\nWe will notify you here as the hiring team processes your candidacy.\n\nBest regards,\nAI AutoApply Team",
+        "jobTitle": "Frontend Web Developer Intern",
+        "company": "Swiggy",
+        "status": "confirmed"
+      },
+      {
+        "id": "email-1780735091447",
+        "from": "AI AutoApply <notifications@aiautoapply.com>",
+        "to": "mohanchandhmc@gmail.com",
+        "subject": "✉️ Thank you for applying: Frontend React Developer at Stripe",
+        "receivedAt": "2026-06-06T08:38:11.447Z",
+        "body": "Hi Mohan Chandu1234,\n\nThank you for applying for the position of Frontend React Developer at Stripe.\n\nThis confirms that your job application has been successfully submitted via the AI AutoApply portal. We have parsed your resume and structured profile details and successfully transmitted them to the candidate portal for Stripe.\n\nApplication Details:\n- Applicant: Mohan Chandu1234\n- Job Title: Frontend React Developer\n- Company: Stripe\n- Channel: LinkedIn Jobs\n- Timestamp: 6/6/2026, 2:08:11 PM\n\nWe will notify you here as the hiring team processes your candidacy.\n\nBest regards,\nAI AutoApply Team",
+        "jobTitle": "Frontend React Developer",
+        "company": "Stripe",
+        "status": "confirmed"
+      }
+    ]
+  }
+}
