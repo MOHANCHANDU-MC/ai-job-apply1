@@ -9,7 +9,7 @@ import AgentConsole from './components/AgentConsole';
 import Mailbox from './components/Mailbox';
 import Settings from './components/Settings';
 
-window.API_BASE_URL = window.API_BASE_URL || 'http://127.0.0.1:5000';
+window.API_BASE_URL = import.meta.env.VITE_API_URL || 'https://ai-job-apply1-production.up.railway.app';
 
 export default function App() {
   // Auth States
