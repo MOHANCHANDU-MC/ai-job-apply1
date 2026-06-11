@@ -157,7 +157,7 @@ export default function AgentConsole({ profile, jobs, applyingJobId, handleApply
         ? { name: authName, email: authEmail, password: authPassword }
         : { email: authEmail, password: authPassword };
 
-      const response = await fetch(`http://127.0.0.1:5000${endpoint}`, {
+      const response = await fetch(`${window.API_BASE_URL}${endpoint}`, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify(payload)
@@ -180,14 +180,14 @@ export default function AgentConsole({ profile, jobs, applyingJobId, handleApply
   const handleModalSocialLogin = async (socialName, socialEmail) => {
     setAuthLoading(true);
     try {
-      let response = await fetch('http://127.0.0.1:5000/api/auth/login', {
+      let response = await fetch(`${window.API_BASE_URL}/api/auth/login`, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ email: socialEmail, password: 'social-auth-password' })
       });
       let data = await response.json();
       if (!response.ok) {
-        response = await fetch('http://127.0.0.1:5000/api/auth/register', {
+        response = await fetch(`${window.API_BASE_URL}/api/auth/register`, {
           method: 'POST',
           headers: { 'Content-Type': 'application/json' },
           body: JSON.stringify({ name: socialName, email: socialEmail, password: 'social-auth-password' })
@@ -221,7 +221,7 @@ export default function AgentConsole({ profile, jobs, applyingJobId, handleApply
       const smtpConfig = localStorage.getItem('aa_smtp_config');
       const parsedSmtp = smtpConfig ? JSON.parse(smtpConfig) : {};
 
-      const response = await fetch('http://127.0.0.1:5000/api/jobs/apply', {
+      const response = await fetch(`${window.API_BASE_URL}/api/jobs/apply`, {
         method: 'POST',
         headers,
         body: JSON.stringify({
